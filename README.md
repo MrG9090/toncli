@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
    <a href="https://disintar.io/">
        <img
         src="https://raw.githubusercontent.com/disintar/toncli/master/docs/images/logo.png"
